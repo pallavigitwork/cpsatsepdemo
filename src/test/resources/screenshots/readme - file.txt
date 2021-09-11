@@ -1,0 +1,1 @@
+In this folder you will save the screenshots captured for the solutions.
